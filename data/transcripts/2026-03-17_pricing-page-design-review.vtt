@@ -1,0 +1,374 @@
+WEBVTT
+NOTE Pricing page design review
+
+1
+00:00:04.012 --> 00:00:07.473
+<v Sofia Lindqvist>Hey. Sorry I'm late, the previous meeting ran over.</v>
+
+2
+00:00:08.846 --> 00:00:12.692
+<v Lucas>You haven't missed anything, we were just talking about lunch.</v>
+
+3
+00:00:13.843 --> 00:00:15.766
+<v Sofia Lindqvist>Important topic. What's the verdict?</v>
+
+4
+00:00:16.984 --> 00:00:18.522
+<v Lucas>Noodles. It's always noodles.</v>
+
+5
+00:00:19.887 --> 00:00:22.963
+<v Ananya Rao>Is anyone blocked on the FAQ for customers?</v>
+
+6
+00:00:24.119 --> 00:00:27.195
+<v Lucas>Not blocked, just slow. It's in decent shape.</v>
+
+7
+00:00:27.481 --> 00:00:31.134
+<v Meera Krishnan>Can we make sure that's written down somewhere? Otherwise we'll have this exact conversation again in a few</v>
+
+8
+00:00:31.134 --> 00:00:34.788
+<v Meera Krishnan>weeks.</v>
+
+9
+00:00:35.450 --> 00:00:40.450
+<v Lucas>Can I get an update on the discount approval process? I lost track.</v>
+
+10
+00:00:41.185 --> 00:00:46.569
+<v Meera Krishnan>Sure. It's slower than I hoped. The hard part is behind us, I think.</v>
+
+11
+00:00:47.361 --> 00:00:51.207
+<v Daniel Brooks>Who's looking at the billing test accounts at the moment?</v>
+
+12
+00:00:51.840 --> 00:00:55.301
+<v Meera Krishnan>Me, mostly. It's basically finished, apart from tidying up.</v>
+
+13
+00:00:56.589 --> 00:01:03.512
+<v Sofia Lindqvist>Our invoices are confusing on their own, never mind the new plans. That might be worth fixing too.</v>
+
+14
+00:01:04.868 --> 00:01:10.060
+<v Daniel Brooks>Okay, this is the new pricing page. I took Lucas's copy and the advisory board feedback, which was</v>
+
+15
+00:01:10.060 --> 00:01:15.252
+<v Daniel Brooks>mostly that people couldn't tell what's in each tier.</v>
+
+16
+00:01:16.350 --> 00:01:20.965
+<v Lucas>It's so much cleaner. The comparison table finally fits on one screen.</v>
+
+17
+00:01:22.239 --> 00:01:25.892
+<v Meera Krishnan>I like that each tier has one sentence saying who it's for. That's what the advisory board was</v>
+
+18
+00:01:25.892 --> 00:01:29.546
+<v Meera Krishnan>missing.</v>
+
+19
+00:01:30.766 --> 00:01:34.804
+<v Daniel Brooks>Thanks. I've used the prices we agreed at the tiers session as placeholders, but I hear there's a</v>
+
+20
+00:01:34.804 --> 00:01:38.842
+<v Daniel Brooks>discussion about Pro.</v>
+
+21
+00:01:39.709 --> 00:01:45.862
+<v Ananya Rao>There is, and I want to settle it today. Sofia, can you share what you found?</v>
+
+22
+00:01:46.826 --> 00:01:53.364
+<v Sofia Lindqvist>Sure. I updated the model with real usage. Pro customers use alerts and the advanced connectors much more</v>
+
+23
+00:01:53.364 --> 00:01:59.902
+<v Sofia Lindqvist>than we assumed. The value they get is a lot higher than the old plans suggested.</v>
+
+24
+00:02:01.453 --> 00:02:05.683
+<v Lucas>The pricing page wireframes are rough, but the structure is there.</v>
+
+25
+00:02:06.551 --> 00:02:11.935
+<v Meera Krishnan>Can we double check that with the people who actually use it every day?</v>
+
+26
+00:02:12.329 --> 00:02:18.098
+<v Lucas>Sounds sensible. I can help review it if you want a second pair of eyes.</v>
+
+27
+00:02:18.683 --> 00:02:22.529
+<v Daniel Brooks>Who's looking at the plan comparison table at the moment?</v>
+
+28
+00:02:23.830 --> 00:02:26.522
+<v Meera Krishnan>Me, mostly. It's slower than I hoped.</v>
+
+29
+00:02:27.029 --> 00:02:30.875
+<v Ananya Rao>Can someone remind me who's taking the notes today? I want to make sure that last point is</v>
+
+30
+00:02:30.875 --> 00:02:34.721
+<v Ananya Rao>in them.</v>
+
+31
+00:02:35.178 --> 00:02:41.716
+<v Meera Krishnan>Customers mostly don't complain about the price. They complain when they don't understand what they're paying for.</v>
+
+32
+00:02:42.420 --> 00:02:49.343
+<v Daniel Brooks>I'll share my screen. Please be honest, these are early, so rough feedback is exactly what I need.</v>
+
+33
+00:02:50.614 --> 00:02:55.614
+<v Sofia Lindqvist>On top of that, our costs for the advanced connectors went up this quarter. At the current Pro</v>
+
+34
+00:02:55.614 --> 00:03:00.614
+<v Sofia Lindqvist>price, the margin on heavy users is thin.</v>
+
+35
+00:03:01.062 --> 00:03:05.677
+<v Meera Krishnan>But we also told the advisory board the price, and they didn't complain. I'm worried about changing it</v>
+
+36
+00:03:05.677 --> 00:03:10.292
+<v Meera Krishnan>right after showing it to them.</v>
+
+37
+00:03:11.421 --> 00:03:15.651
+<v Ananya Rao>I understand. But they reacted to the tiers, not to the economics. I'd rather adjust now, before anything</v>
+
+38
+00:03:15.651 --> 00:03:19.882
+<v Ananya Rao>is public, than later.</v>
+
+39
+00:03:20.169 --> 00:03:24.015
+<v Lucas>From marketing, a higher price is fine if the page explains the value. And the page is much</v>
+
+40
+00:03:24.015 --> 00:03:27.861
+<v Lucas>better now.</v>
+
+41
+00:03:29.245 --> 00:03:33.091
+<v Ananya Rao>Okay. Decision. We raise the Pro tier to $59 per user per month. Starter and Enterprise stay as</v>
+
+42
+00:03:33.091 --> 00:03:36.937
+<v Ananya Rao>they are.</v>
+
+43
+00:03:37.731 --> 00:03:41.577
+<v Sofia Lindqvist>I'll update the model and the forecast with that number.</v>
+
+44
+00:03:42.879 --> 00:03:47.109
+<v Daniel Brooks>And I'll update the page. It's one number, so that's easy.</v>
+
+45
+00:03:48.005 --> 00:03:48.905
+<v Sofia Lindqvist>Right.</v>
+
+46
+00:03:50.287 --> 00:03:54.517
+<v Meera Krishnan>I'll tell Fatima, so she can mention it to the advisory board before they hear it anywhere else.</v>
+
+47
+00:03:54.517 --> 00:03:58.748
+<v Meera Krishnan>I'd like their reaction.</v>
+
+48
+00:03:59.492 --> 00:04:03.722
+<v Sofia Lindqvist>Let's focus on the flow first and argue about colours later.</v>
+
+49
+00:04:05.029 --> 00:04:10.798
+<v Lucas>We should test the upgrade path end to end, not just the new sign-up flow.</v>
+
+50
+00:04:12.270 --> 00:04:16.116
+<v Meera Krishnan>I spent Tuesday afternoon on the invoice template. It's in decent shape, a couple of edge cases still</v>
+
+51
+00:04:16.116 --> 00:04:19.962
+<v Meera Krishnan>bother me.</v>
+
+52
+00:04:20.482 --> 00:04:23.174
+<v Daniel Brooks>Where are we with the upgrade flow?</v>
+
+53
+00:04:24.123 --> 00:04:27.969
+<v Meera Krishnan>It's mostly done. It took longer than it should have.</v>
+
+54
+00:04:28.651 --> 00:04:34.804
+<v Daniel Brooks>Can I get an update on the plan names in the admin panel? I lost track.</v>
+
+55
+00:04:35.703 --> 00:04:40.318
+<v Meera Krishnan>Sure. It's slower than I hoped. I'll share it in the channel.</v>
+
+56
+00:04:41.209 --> 00:04:46.593
+<v Lucas>One worry I have is grandfathering. We need a clear rule for existing customers.</v>
+
+57
+00:04:47.915 --> 00:04:54.838
+<v Sofia Lindqvist>Small thing from me. I picked up the revenue model again after lunch yesterday. It's about halfway there.</v>
+
+58
+00:04:55.836 --> 00:04:59.682
+<v Meera Krishnan>On my side, work on the invoice template is slower than I hoped. It took longer than it</v>
+
+59
+00:04:59.682 --> 00:05:03.528
+<v Meera Krishnan>should have.</v>
+
+60
+00:05:04.631 --> 00:05:10.400
+<v Daniel Brooks>Back to the design. Monthly versus annual billing. Do we show both on the page?</v>
+
+61
+00:05:10.761 --> 00:05:14.414
+<v Sofia Lindqvist>Annual billing helps cash flow a lot. If we can nudge people towards it, finance would be very</v>
+
+62
+00:05:14.414 --> 00:05:18.068
+<v Sofia Lindqvist>happy.</v>
+
+63
+00:05:19.003 --> 00:05:19.903
+<v Lucas>Right, right.</v>
+
+64
+00:05:20.352 --> 00:05:27.275
+<v Ananya Rao>Let's leave annual pricing open for now. I don't want to decide two pricing changes in one meeting.</v>
+
+65
+00:05:27.752 --> 00:05:33.905
+<v Daniel Brooks>Just a reminder that the team lunch is on Thursday. Please add yourself to the sheet.</v>
+
+66
+00:05:35.270 --> 00:05:37.962
+<v Sofia Lindqvist>Is there a vegetarian option this time?</v>
+
+67
+00:05:38.749 --> 00:05:40.672
+<v Daniel Brooks>There is. I made sure.</v>
+
+68
+00:05:41.929 --> 00:05:43.082
+<v Sofia Lindqvist>Then I'm in.</v>
+
+69
+00:05:44.611 --> 00:05:48.649
+<v Daniel Brooks>On my side, work on the sales talking points is about halfway there. A couple of edge cases</v>
+
+70
+00:05:48.649 --> 00:05:52.687
+<v Daniel Brooks>still bother me.</v>
+
+71
+00:05:53.873 --> 00:05:58.103
+<v Lucas>I had a quick call about the plan migration script the end of last week. We're aligned, I'm</v>
+
+72
+00:05:58.103 --> 00:06:02.334
+<v Lucas>reasonably happy with it.</v>
+
+73
+00:06:03.174 --> 00:06:09.327
+<v Sofia Lindqvist>The usage data is interesting. A small group of accounts uses most of the heavy features.</v>
+
+74
+00:06:10.721 --> 00:06:15.721
+<v Daniel Brooks>Meera, you mentioned the pricing page wireframes earlier in the week. Any news?</v>
+
+75
+00:06:16.449 --> 00:06:20.679
+<v Meera Krishnan>Some. It's further along than I expected, no surprises so far.</v>
+
+76
+00:06:21.942 --> 00:06:23.095
+<v Daniel Brooks>Great, thank you.</v>
+
+77
+00:06:24.479 --> 00:06:31.402
+<v Lucas>Small thing from me. I picked up the upgrade flow again Tuesday afternoon. It's nearly ready for review.</v>
+
+78
+00:06:32.170 --> 00:06:37.170
+<v Meera Krishnan>Small thing on the page. The Enterprise column says contact us, but it doesn't say who it's for.</v>
+
+79
+00:06:37.170 --> 00:06:42.170
+<v Meera Krishnan>Can we add the seat minimum we agreed?</v>
+
+80
+00:06:43.158 --> 00:06:47.773
+<v Daniel Brooks>Yes. It helps people self-select. I'll add a line under the heading.</v>
+
+81
+00:06:48.661 --> 00:06:53.276
+<v Sofia Lindqvist>That should cut the small-team Enterprise requests that keep landing on sales.</v>
+
+82
+00:06:54.500 --> 00:07:01.423
+<v Ananya Rao>Good. And let's make sure the page loads fast. Pricing pages are where people leave if they're slow.</v>
+
+83
+00:07:02.211 --> 00:07:05.672
+<v Daniel Brooks>It's mostly text and one table. It'll be quick.</v>
+
+84
+00:07:06.811 --> 00:07:12.580
+<v Meera Krishnan>What about frequently asked questions? Things like what happens at the end of the trial.</v>
+
+85
+00:07:13.734 --> 00:07:18.349
+<v Daniel Brooks>A short section at the bottom. A handful of questions at most.</v>
+
+86
+00:07:19.284 --> 00:07:25.053
+<v Ananya Rao>Keep the answers short. If an answer needs a paragraph, the pricing is too complicated.</v>
+
+87
+00:07:25.435 --> 00:07:28.896
+<v Sofia Lindqvist>I'll send over the finance questions customers ask most.</v>
+
+88
+00:07:30.042 --> 00:07:34.272
+<v Lucas>When can I start using this page in the campaign drafts?</v>
+
+89
+00:07:35.854 --> 00:07:39.700
+<v Daniel Brooks>Give me a week to polish it. Then it's yours.</v>
+
+90
+00:07:40.878 --> 00:07:42.801
+<v Ananya Rao>Great. Thanks, all. Good review.</v>
+
+91
+00:07:43.420 --> 00:07:46.496
+<v Lucas>That's all from me. Thanks for making time.</v>
+
+92
+00:07:47.870 --> 00:07:48.770
+<v Daniel Brooks>Thanks, bye.</v>
+
+93
+00:07:49.399 --> 00:07:50.299
+<v Lucas>Bye, all.</v>

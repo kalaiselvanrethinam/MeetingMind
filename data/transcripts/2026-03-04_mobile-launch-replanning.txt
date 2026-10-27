@@ -1,0 +1,82 @@
+Meeting: Mobile launch replanning
+Date: 2026-03-04
+
+[00:00:04] LM: Can we give it one more minute? A couple of people said they're running late.
+[00:00:10] KW: Sure. I'll use the minute to refill my tea.
+[00:00:15] Ananya: I'm here now. Sorry, I couldn't find the link.
+[00:00:19] LM: Perfect timing.
+[00:00:21] Ananya: I'll check with my team and come back on that. I don't want to commit for them.
+[00:00:29] Tomás: Quick update on the beta feedback queue. It's slower than I hoped. Honestly, I'll share it in the channel.
+[00:00:37] Ananya: Is the accessibility fixes still on track?
+[00:00:41] Tomás: Roughly. It's nearly ready for review, I'm reasonably happy with it.
+[00:00:45] Ananya: Nice. Thanks for the update.
+[00:00:48] Tomás: Heads up, I'll need someone to review the release checklist soon. It's about halfway there.
+[00:00:55] LM: I've been cleaning up the analytics events in the app so the names match the web.
+[00:01:02] KW: Thanks for making time. This is the replanning session we asked for at the weekly sync. Short version, I don't think the original date is safe anymore.
+[00:01:14] Ananya: Okay. Tell me why, and let's be specific.
+[00:01:17] Tomás: Hmm, okay.
+[00:01:19] KW: The build itself is mostly on track. The crash fix for older phones landed, and the beta numbers are improving. The problem is app store review. We have almost no buffer.
+[00:01:32] Tomás: We read up on it properly this time. A first submission often gets questions back, sometimes rejections for small things like the privacy text. Each round can take days.
+[00:01:43] LM: And if both stores have to approve on the same day, the slowest one decides the launch.
+[00:01:50] KW: Exactly. With the current date, one rejection means we miss the launch, and Lucas's campaign goes out for an app people can't download.
+[00:02:01] LM: Which would be a very bad day for me.
+[00:02:06] KW: The API team added the endpoint we needed for alerts. That unblocked a lot.
+[00:02:12] Tomás: I reopened the store screenshots because something looked off. It's in decent shape again, a couple of edge cases still bother me.
+[00:02:21] LM: Where are we with the push notification service?
+[00:02:25] Tomás: It's still a bit rough. I found one annoying bug along the way.
+[00:02:31] LM: Tomás, you mentioned the dashboard list earlier in the week. Any news?
+[00:02:37] Tomás: Some. It's still a bit rough, the hard part is behind us, I think.
+[00:02:43] LM: Thanks, that helps.
+[00:02:46] KW: I reopened the alert settings screen because something looked off. It's still a bit rough again, I found one annoying bug along the way.
+[00:02:56] Tomás: We tried something similar last year and it didn't stick. Let's make sure we know why before we repeat it.
+[00:03:04] LM: The design for the alert detail screen is final. Engineering has started on it.
+[00:03:11] KW: Store review guidelines changed a bit recently. Nothing scary, but worth reading.
+[00:03:16] LM: The store listing needs screenshots and a description. Marketing has a draft of the description.
+[00:03:23] Ananya: What do you propose?
+[00:03:26] KW: Submit to both stores well before launch, with time for at least two review rounds. Then launch when both are approved, not when we hope they will be.
+[00:03:38] Ananya: Okay, then let's move the date properly, once, rather than slipping a week at a time. We move the mobile launch to May 6. That gives us a real buffer for app store review on both stores.
+[00:03:53] Tomás: Sorry, my internet froze. I'm back.
+[00:03:56] LM: May 6. Got it. I'd much rather move it now than the week before.
+[00:04:01] Tomás: Agreed. And the crash-free bar we set still applies. The new date doesn't change the launch rules.
+[00:04:09] LM: I'd like a checkpoint halfway through, so we can adjust if things slip.
+[00:04:15] KW: Some older Android phones render the fonts slightly differently. Mostly cosmetic.
+[00:04:20] LM: Did the chart renderer ever get reviewed?
+[00:04:23] Tomás: I reviewed it the last couple of days. It's about halfway there, no surprises so far.
+[00:04:29] KW: I had a quick call about the crash dashboard after lunch yesterday. We're aligned, nothing dramatic.
+[00:04:36] Ananya: Where are we with the login screen?
+[00:04:40] KW: It's basically finished, apart from tidying up. I'm reasonably happy with it.
+[00:04:45] Tomás: Okay, but let's timebox it. I don't want this turning into another month of discussion.
+[00:04:51] KW: Deep links from the alert emails open the right screen now. That was a fiddly one.
+[00:04:58] LM: Login with the existing accounts works. The password reset flow still opens the web page, which is fine for now.
+[00:05:07] Ananya: Who tells the beta testers?
+[00:05:10] KW: I will. They've been great, they deserve to hear it from us directly.
+[00:05:15] LM: I'll update the campaign plan and the launch page draft. The pricing campaign is still separate, so there's no clash.
+[00:05:24] Ananya: Good. Keep those two apart. Customers shouldn't get two big announcements in the same week.
+[00:05:31] KW: Sorry, quick tangent. Who keeps renaming the shared folders? I couldn't find anything this morning.
+[00:05:39] Ananya: That might have been me. I was trying to tidy up.
+[00:05:43] KW: Tidy is good. Can we leave a note next time?
+[00:05:48] Ananya: Fair. Sorry.
+[00:05:50] Tomás: One small thing. Can we tag the tickets properly this time? Searching for anything on the board is painful.
+[00:05:59] LM: Kenji, did you get a chance to look at the deep link handling?
+[00:06:05] KW: Not yet, sorry. It's on my list for later today.
+[00:06:09] Tomás: Heads up, I'll need someone to review the tablet layout soon. It's further along than I expected.
+[00:06:16] Ananya: Makes sense. I'll update my part of the plan to match.
+[00:06:22] Tomás: Push notifications work on my test devices. I want to try a wider range of phones before I trust it.
+[00:06:31] LM: Can I get an update on the accessibility fixes? I lost track.
+[00:06:36] KW: Sure. It's mostly done. The hard part is behind us, I think.
+[00:06:42] Tomás: Let's not plan the whole thing down to the day. A rough sequence is enough for now.
+[00:06:50] Ananya: Dependencies on other teams are what worry me most. Let's list them.
+[00:06:56] LM: Can we talk about what we tell customers? Some of them saw the original date in our newsletter.
+[00:07:03] Ananya: We say it's moving and why, briefly. We're making sure it's solid before it reaches their phones.
+[00:07:11] LM: Good. Honest and short. I'll update the newsletter section.
+[00:07:16] KW: Could we also offer beta access to customers who were waiting? That softens the delay.
+[00:07:22] Ananya: As long as it doesn't overload Grace. The beta is useful because it's manageable.
+[00:07:29] KW: A small extra group, then. I'll check with Grace.
+[00:07:32] LM: And for the launch itself, I'd like a short demo video. Can I get a build a couple of weeks before?
+[00:07:41] KW: Yes. The build after submission will be stable enough for recording.
+[00:07:46] Ananya: Good. Let's make sure the demo shows alerts. That's the thing people get excited about.
+[00:07:53] Tomás: One more thing, while everyone's here. The submission date becomes our real deadline. Everything needs to be done for that, not for launch day.
+[00:08:03] KW: Yes. I'll work backwards from the submission date and update the milestone plan.
+[00:08:09] Ananya: Thanks. This is the right call, even if it's annoying. Send me the new plan when it's ready.
+[00:08:17] KW: Let's wrap there. Tomás, can you stop the recording?
+[00:08:21] Tomás: Stopping it now. Thanks, everyone.

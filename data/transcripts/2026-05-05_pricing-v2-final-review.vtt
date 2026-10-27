@@ -1,0 +1,382 @@
+WEBVTT
+NOTE Pricing v2 final review
+
+1
+00:00:04.972 --> 00:00:08.818
+<v Sofia Lindqvist>Happy Monday, or whatever day it is. I've lost track.</v>
+
+2
+00:00:10.402 --> 00:00:11.940
+<v Lucas Martin>It's definitely not Monday.</v>
+
+3
+00:00:12.423 --> 00:00:15.884
+<v Sofia Lindqvist>See, this is why I need these meetings. Okay.</v>
+
+4
+00:00:16.262 --> 00:00:22.415
+<v Lucas Martin>The plan comparison table on the website has too many rows. Most people won't read them.</v>
+
+5
+00:00:23.697 --> 00:00:29.081
+<v Sofia Lindqvist>I paired with someone on the plan comparison table the end of last week. It's nearly ready for</v>
+
+6
+00:00:29.081 --> 00:00:34.466
+<v Sofia Lindqvist>review now, I found one annoying bug along the way.</v>
+
+7
+00:00:34.732 --> 00:00:37.808
+<v Lucas Martin>Is anyone blocked on the sales talking points?</v>
+
+8
+00:00:38.147 --> 00:00:41.608
+<v Sofia Lindqvist>Not blocked, just slow. It's still a bit rough.</v>
+
+9
+00:00:42.599 --> 00:00:46.252
+<v Fatima Al-Sayed>From a leadership point of view, the main thing I need is confidence in the dates and the</v>
+
+10
+00:00:46.252 --> 00:00:49.906
+<v Fatima Al-Sayed>risks.</v>
+
+11
+00:00:51.081 --> 00:00:53.773
+<v AR>Did the upgrade flow ever get reviewed?</v>
+
+12
+00:00:54.203 --> 00:01:00.741
+<v Sofia Lindqvist>I reviewed it the end of last week. It's mostly done, I'll share it in the channel.</v>
+
+13
+00:01:00.993 --> 00:01:05.993
+<v Lucas Martin>Sofia, you mentioned the billing test accounts earlier in the week. Any news?</v>
+
+14
+00:01:07.569 --> 00:01:13.338
+<v Sofia Lindqvist>Some. It's still a bit rough, I'd love a second pair of eyes on it.</v>
+
+15
+00:01:13.856 --> 00:01:15.779
+<v Lucas Martin>Nice. Thanks for the update.</v>
+
+16
+00:01:17.062 --> 00:01:19.754
+<v Meera>Did the invoice template ever get reviewed?</v>
+
+17
+00:01:20.959 --> 00:01:27.497
+<v Lucas Martin>I reviewed it most of the week. It's slower than I hoped, I'm reasonably happy with it.</v>
+
+18
+00:01:28.847 --> 00:01:33.462
+<v Fatima Al-Sayed>I appreciate the honesty about the risks. That's much better than surprises.</v>
+
+19
+00:01:34.711 --> 00:01:39.711
+<v Lucas Martin>Customer success wants talking points for renewals, so they aren't caught off guard.</v>
+
+20
+00:01:40.504 --> 00:01:43.196
+<v Sofia Lindqvist>Did the revenue model ever get reviewed?</v>
+
+21
+00:01:44.550 --> 00:01:50.703
+<v Lucas Martin>I reviewed it after lunch yesterday. It's further along than I expected, it should be fine.</v>
+
+22
+00:01:50.990 --> 00:01:55.797
+<v Meera>Okay, final pricing review, as booked at the last sync. The pre-read has everything. Advisory board feedback, Sofia's</v>
+
+23
+00:01:55.797 --> 00:02:00.605
+<v Meera>annual discount scenarios, and the go-live plan.</v>
+
+24
+00:02:02.056 --> 00:02:02.956
+<v Fatima Al-Sayed>Interesting.</v>
+
+25
+00:02:03.758 --> 00:02:10.681
+<v AR>Thanks. I read it twice. Fatima, can you summarise the advisory board view in a sentence or two?</v>
+
+26
+00:02:11.790 --> 00:02:17.366
+<v Fatima Al-Sayed>The higher Pro price hurt trust more than budgets. Members were clear they'd commit to a year if</v>
+
+27
+00:02:17.366 --> 00:02:22.943
+<v Fatima Al-Sayed>the price was right, and they really didn't like the jump.</v>
+
+28
+00:02:24.359 --> 00:02:30.512
+<v Sofia Lindqvist>And the model backs that up. A lower monthly price with a good annual discount brings in about</v>
+
+29
+00:02:30.512 --> 00:02:36.666
+<v Sofia Lindqvist>the same revenue over a year, with much better cash flow and lower churn.</v>
+
+30
+00:02:37.862 --> 00:02:43.246
+<v Meera>One worry I have is grandfathering. We need a clear rule for existing customers.</v>
+
+31
+00:02:44.839 --> 00:02:50.608
+<v Fatima Al-Sayed>We should test the upgrade path end to end, not just the new sign-up flow.</v>
+
+32
+00:02:51.261 --> 00:02:55.876
+<v Meera>I spent the last couple of days on the discount approval process. It's in decent shape, I found</v>
+
+33
+00:02:55.876 --> 00:03:00.491
+<v Meera>one annoying bug along the way.</v>
+
+34
+00:03:01.781 --> 00:03:06.781
+<v Sofia Lindqvist>Meera, did you get a chance to look at the FAQ for customers?</v>
+
+35
+00:03:07.553 --> 00:03:11.014
+<v Meera>Not yet, sorry. It's on my list for Thursday.</v>
+
+36
+00:03:12.130 --> 00:03:14.822
+<v Sofia Lindqvist>Is the invoice template still on track?</v>
+
+37
+00:03:15.435 --> 00:03:18.896
+<v Meera>Roughly. It's in decent shape, no surprises so far.</v>
+
+38
+00:03:19.524 --> 00:03:20.424
+<v Sofia Lindqvist>Perfect.</v>
+
+39
+00:03:21.250 --> 00:03:27.403
+<v Meera>The usage data is interesting. A small group of accounts uses most of the heavy features.</v>
+
+40
+00:03:27.694 --> 00:03:30.770
+<v Fatima Al-Sayed>Is anyone blocked on the pricing page wireframes?</v>
+
+41
+00:03:31.905 --> 00:03:34.981
+<v Sofia Lindqvist>Not blocked, just slow. It's in decent shape.</v>
+
+42
+00:03:35.960 --> 00:03:41.344
+<v Meera>Finance wants a revenue model for each scenario before anything is locked. Fair enough.</v>
+
+43
+00:03:42.558 --> 00:03:47.750
+<v Lucas Martin>From marketing, a price cut sounds bad, but going back to the price people first saw, plus a</v>
+
+44
+00:03:47.750 --> 00:03:52.942
+<v Lucas Martin>discount for annual, is an easy story to tell.</v>
+
+45
+00:03:54.336 --> 00:04:00.874
+<v AR>Okay. I've listened to all of this, and I'm changing my earlier decision. The Pro tier goes back</v>
+
+46
+00:04:00.874 --> 00:04:07.412
+<v AR>to $49 per user per month. The increase we made at the design review is reversed.</v>
+
+47
+00:04:08.681 --> 00:04:13.681
+<v Meera>Thank you. I think the advisory board will really appreciate that we listened.</v>
+
+48
+00:04:15.219 --> 00:04:16.757
+<v Sofia Lindqvist>And the annual discount?</v>
+
+49
+00:04:17.973 --> 00:04:23.742
+<v AR>Annual plans get a 20% discount, on every tier except Enterprise, which is negotiated anyway.</v>
+
+50
+00:04:24.932 --> 00:04:29.547
+<v Sofia Lindqvist>Great. I'll lock the model with those numbers. That's the final version.</v>
+
+51
+00:04:30.398 --> 00:04:35.013
+<v Meera>Overall I'm comfortable with where this is. Let's keep the updates coming.</v>
+
+52
+00:04:36.536 --> 00:04:40.189
+<v Sofia Lindqvist>I talked to two account managers. They want simple tiers they can explain on a call in a</v>
+
+53
+00:04:40.189 --> 00:04:43.843
+<v Sofia Lindqvist>minute.</v>
+
+54
+00:04:45.440 --> 00:04:51.593
+<v Meera>Heads up, I'll need someone to review the checkout copy soon. It's nearly ready for review.</v>
+
+55
+00:04:51.847 --> 00:04:56.847
+<v AR>Leadership mainly wants to know if anything needs their help. Is there anything?</v>
+
+56
+00:04:57.453 --> 00:05:00.145
+<v Sofia Lindqvist>Is the revenue model still on track?</v>
+
+57
+00:05:00.763 --> 00:05:06.147
+<v Meera>Roughly. It's nearly ready for review, the hard part is behind us, I think.</v>
+
+58
+00:05:06.468 --> 00:05:07.368
+<v Sofia Lindqvist>Cool, thanks.</v>
+
+59
+00:05:08.826 --> 00:05:13.441
+<v Lucas Martin>I paired with someone on the billing test accounts yesterday. It's slower than I hoped now, the hard</v>
+
+60
+00:05:13.441 --> 00:05:18.056
+<v Lucas Martin>part is behind us, I think.</v>
+
+61
+00:05:18.523 --> 00:05:22.176
+<v Sofia Lindqvist>Small thing from me. I picked up the sales talking points again Tuesday afternoon. It's slower than I</v>
+
+62
+00:05:22.176 --> 00:05:25.830
+<v Sofia Lindqvist>hoped.</v>
+
+63
+00:05:26.940 --> 00:05:31.555
+<v Fatima Al-Sayed>Can I tell the advisory board this week? Before the public announcement?</v>
+
+64
+00:05:32.873 --> 00:05:37.103
+<v AR>Yes. They earned it. Tell them their feedback changed the decision.</v>
+
+65
+00:05:38.530 --> 00:05:42.953
+<v Meera>Go-live stays on the date we set at the tiers session. Billing engineering has what they need, now</v>
+
+66
+00:05:42.953 --> 00:05:47.376
+<v Meera>that the prices are final.</v>
+
+67
+00:05:47.768 --> 00:05:54.306
+<v Lucas Martin>Then I'll finish the campaign. The pricing page just needs the final numbers and the annual toggle.</v>
+
+68
+00:05:55.349 --> 00:06:00.349
+<v Meera>Unrelated, but thank you to whoever fixed the projector in the big room.</v>
+
+69
+00:06:00.953 --> 00:06:04.799
+<v Lucas Martin>That was facilities, I think. It took them a while.</v>
+
+70
+00:06:06.303 --> 00:06:08.226
+<v Meera>Well, it works now. Okay.</v>
+
+71
+00:06:08.828 --> 00:06:13.443
+<v AR>Lucas, you mentioned the upgrade flow earlier in the week. Any news?</v>
+
+72
+00:06:14.004 --> 00:06:17.080
+<v Lucas Martin>Some. It's mostly done, no surprises so far.</v>
+
+73
+00:06:18.190 --> 00:06:19.728
+<v AR>Fine, keep me posted.</v>
+
+74
+00:06:20.971 --> 00:06:26.740
+<v Lucas Martin>Heads up, I'll need someone to review the plan comparison table soon. It's mostly done.</v>
+
+75
+00:06:27.420 --> 00:06:34.343
+<v Meera>Our invoices are confusing on their own, never mind the new plans. That might be worth fixing too.</v>
+
+76
+00:06:34.874 --> 00:06:38.527
+<v Sofia Lindqvist>One practical point. A few internal and pilot accounts were already moved to the higher Pro price during</v>
+
+77
+00:06:38.527 --> 00:06:42.181
+<v Sofia Lindqvist>testing.</v>
+
+78
+00:06:43.312 --> 00:06:49.465
+<v Meera>We move them back to the lower price, with a short note. It's a small group.</v>
+
+79
+00:06:50.193 --> 00:06:53.846
+<v Fatima Al-Sayed>And any pilot customers who were billed at the higher price get a credit. I'd rather overdo fairness</v>
+
+80
+00:06:53.846 --> 00:06:57.500
+<v Fatima Al-Sayed>here.</v>
+
+81
+00:06:58.491 --> 00:07:01.567
+<v Sofia Lindqvist>Agreed. I'll work out the credits with billing.</v>
+
+82
+00:07:02.441 --> 00:07:06.671
+<v Lucas Martin>For the annual discount, I want to show both prices on the page. Monthly, and the effective monthly</v>
+
+83
+00:07:06.671 --> 00:07:10.902
+<v Lucas Martin>price when paid yearly.</v>
+
+84
+00:07:11.351 --> 00:07:14.812
+<v Meera>Yes, that's the clearest way. People compare monthly numbers.</v>
+
+85
+00:07:16.364 --> 00:07:23.287
+<v Fatima Al-Sayed>And customer success needs a short script for renewals. Customers will ask whether they should switch to annual.</v>
+
+86
+00:07:24.134 --> 00:07:28.749
+<v Meera>I'll write the script with you. Honest advice, not a hard sell.</v>
+
+87
+00:07:30.293 --> 00:07:34.908
+<v Sofia Lindqvist>Finance will review it too, so nobody promises something we can't bill.</v>
+
+88
+00:07:36.030 --> 00:07:42.568
+<v AR>And the Team tier idea from the last sync stays parked. Let's launch what we have first.</v>
+
+89
+00:07:44.074 --> 00:07:44.974
+<v Meera>Interesting.</v>
+
+90
+00:07:46.059 --> 00:07:48.366
+<v Lucas Martin>Agreed, no new tiers before go-live.</v>
+
+91
+00:07:49.631 --> 00:07:53.284
+<v Meera>I'll send a summary of today's decisions to the whole company, so nobody hears an old price by</v>
+
+92
+00:07:53.284 --> 00:07:56.938
+<v Meera>accident.</v>
+
+93
+00:07:57.431 --> 00:08:02.046
+<v Fatima Al-Sayed>Let's stop there. I'll write up the notes and send them round.</v>
+
+94
+00:08:02.550 --> 00:08:04.088
+<v Sofia Lindqvist>Thanks, that's really helpful.</v>
+
+95
+00:08:05.046 --> 00:08:07.738
+<v Fatima Al-Sayed>Have a good rest of the day.</v>

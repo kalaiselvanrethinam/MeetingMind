@@ -1,0 +1,74 @@
+Meeting: Mobile weekly sync
+Date: 2026-05-13
+
+[00:00:01] Grace Okafor: Did anyone else get the calendar invite for this twice?
+[00:00:06] KW: Yes, and one of them says it's in a room that doesn't exist.
+[00:00:11] Grace Okafor: I'll clean that up after the call. Let's just use this one.
+[00:00:16] Tomas: I spent this morning on the dashboard list. It's in decent shape, nothing dramatic.
+[00:00:23] Grace Okafor: Not much from me this week. Mostly the release checklist. That work is slower than I hoped.
+[00:00:30] Tomas: I reopened the deep link handling because something looked off. It's further along than I expected again, I found one annoying bug along the way.
+[00:00:41] Grace Okafor: Small thing from me. I picked up the build pipeline again this morning. It's still a bit rough.
+[00:00:48] Tomas: I paired with someone on the crash dashboard Tuesday afternoon. It's about halfway there now, nothing dramatic.
+[00:00:55] Grace Okafor: On my side, work on the push notification service is slower than I hoped. It should be fine.
+[00:01:02] Tomas: If anyone has time, the dashboard list could use another look. It's about halfway there, but I'd love a second pair of eyes on it.
+[00:01:13] Grace Okafor: I had a quick call about the beta feedback queue this morning. We're aligned, it took longer than it should have.
+[00:01:22] KW: Okay, weekly sync. Big news first. The Android crash fix is merged. I restructured the chart loading, and the crash that happens when the app comes back from the background is gone in all our tests.
+[00:01:36] Grace Okafor: I can confirm it's gone in my tests too, including on the older phones. But it's only been a couple of days on the beta.
+[00:01:47] Tomas: How are the beta numbers looking?
+[00:01:50] KW: Improving every day. The crash-free rate on Android is climbing towards the bar. It's not a full week yet, so it doesn't count, per our own rule.
+[00:02:01] Grace Okafor: The API team added the endpoint we needed for alerts. That unblocked a lot.
+[00:02:08] Tomas: Can I get an update on the chart renderer? I lost track.
+[00:02:13] KW: Sure. It's slower than I hoped. I'm reasonably happy with it.
+[00:02:18] Grace Okafor: Small thing from me. I picked up the crash dashboard again yesterday. It's about halfway there.
+[00:02:26] KW: On my side, work on the build pipeline is about halfway there. I'd love a second pair of eyes on it.
+[00:02:34] Grace Okafor: I reopened the tablet layout because something looked off. It's still a bit rough again, no surprises so far.
+[00:02:43] Tomas: Kenji, did you get a chance to look at the release checklist?
+[00:02:48] KW: Not yet, sorry. It's on my list for tomorrow.
+[00:02:52] Grace Okafor: If anyone has time, the dashboard list could use another look. It's slower than I hoped, but it took longer than it should have.
+[00:03:02] Tomas: Grace, did you get a chance to look at the dashboard list?
+[00:03:07] Grace Okafor: Not yet, sorry. It's on my list for right after this call.
+[00:03:13] Tomas: Okay. So here's my worry. If something else shows up in the next week, we won't have a full clean week before the launch date.
+[00:03:23] Grace Okafor: That's fair. A full week is the rule, and we haven't had one yet.
+[00:03:29] Tomas: So maybe we push to June 10, just to be safe? I'm not saying we should, it's just an option to keep in our back pocket. Let's revisit on Friday when we have more data.
+[00:03:44] Grace Okafor: Okay, noted.
+[00:03:46] KW: I'd really rather not move it again. Ananya said she wanted the last move to be the last one. If the numbers hold, we're fine.
+[00:03:56] Grace Okafor: Let's see what the data says by Friday. If the rate holds above the bar, there's no reason to move.
+[00:04:05] Tomas: Agreed. It's just a contingency. Nothing changes today.
+[00:04:09] Grace Okafor: I'll skip my round today, my update is all in the channel already.
+[00:04:15] Tomas: Did the push notification service ever get reviewed?
+[00:04:20] Grace Okafor: I reviewed it this morning. It's nearly ready for review, nothing dramatic.
+[00:04:26] Tomas: Quick update on the accessibility fixes. It's slower than I hoped. Honestly, no surprises so far.
+[00:04:32] Grace Okafor: The app permissions prompt took most of my week, honestly. It's still a bit rough, I'd love a second pair of eyes on it.
+[00:04:42] Tomas: The store screenshots took most of my week, honestly. It's basically finished, apart from tidying up, I found one annoying bug along the way.
+[00:04:52] Grace Okafor: Small thing from me. I picked up the alert settings screen again this morning. It's slower than I hoped.
+[00:05:00] Tomas: I reopened the release checklist because something looked off. It's mostly done again, a couple of edge cases still bother me.
+[00:05:09] KW: Store submission for Android goes in tomorrow with the fix. iOS is already approved and waiting.
+[00:05:16] Grace Okafor: I'll start the full regression pass for sign-off this week, so it's ready when the week of clean data is.
+[00:05:25] KW: Just a reminder that the team lunch is on Thursday. Please add yourself to the sheet.
+[00:05:33] Tomas: Is there a vegetarian option this time?
+[00:05:37] KW: There is. I made sure.
+[00:05:40] Tomas: Then I'm in.
+[00:05:42] KW: Heads up, I'll need someone to review the login screen soon. It's mostly done.
+[00:05:48] Tomas: Where are we with the alert settings screen?
+[00:05:52] KW: It's mostly done. I'd love a second pair of eyes on it.
+[00:05:58] Grace Okafor: Where are we with the beta feedback queue?
+[00:06:02] KW: It's in decent shape. It should be fine.
+[00:06:06] Tomas: I reopened the store screenshots because something looked off. It's further along than I expected again, I'm reasonably happy with it.
+[00:06:15] KW: I reopened the chart renderer because something looked off. It's nearly ready for review again, the hard part is behind us, I think.
+[00:06:24] Tomas: I paired with someone on the alert settings screen yesterday. It's nearly ready for review now, it took longer than it should have.
+[00:06:33] KW: Heads up, I'll need someone to review the accessibility fixes soon. It's further along than I expected.
+[00:06:41] Tomas: I spent the last couple of days on the chart renderer. It's basically finished, apart from tidying up, I found one annoying bug along the way.
+[00:06:52] Grace Okafor: Something else from the beta. Since the fix, testers say the app feels faster, especially when opening big dashboards.
+[00:07:01] KW: That's a nice side effect. The new loading code is simpler, so it does less work.
+[00:07:08] Grace Okafor: Several people mentioned it without being asked. That usually means it's real.
+[00:07:14] KW: I'll take it. It's been a hard few weeks.
+[00:07:19] Grace Okafor: Also, my regression pass will cover the older phones first. That's where the crash was worst.
+[00:07:25] KW: Good. If it's fine there, it's fine everywhere.
+[00:07:29] Grace Okafor: And I'll keep the daily crash-rate check going until a week after launch, not just until launch.
+[00:07:37] Tomas: Yeah, makes sense.
+[00:07:39] KW: Please. The first days after launch are when we'll see devices we've never tested.
+[00:07:45] Tomas: And Lucas needs to know the campaign is still on, unless we tell him otherwise.
+[00:07:52] KW: I'll tell him. Campaign stays on the current date.
+[00:07:56] Grace Okafor: Fingers crossed. Professionally crossed.
+[00:07:58] Tomas: Anything else before we drop? No? Great. Thanks, everyone.
+[00:08:03] KW: Thanks. See you at the next one.

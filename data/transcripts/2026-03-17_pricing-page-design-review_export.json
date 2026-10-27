@@ -1,0 +1,458 @@
+{
+  "export_tool": "MeetRec Export",
+  "schema_version": "2.1",
+  "meeting_title": "Pricing page design review",
+  "recorded_on": "2026-03-17",
+  "segments": [
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 4012,
+      "end_ms": 7473,
+      "content": "Hey. Sorry I'm late, the previous meeting ran over."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 8846,
+      "end_ms": 12692,
+      "content": "You haven't missed anything, we were just talking about lunch."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 13843,
+      "end_ms": 15766,
+      "content": "Important topic. What's the verdict?"
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 16984,
+      "end_ms": 18522,
+      "content": "Noodles. It's always noodles."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 19887,
+      "end_ms": 22963,
+      "content": "Is anyone blocked on the FAQ for customers?"
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 24119,
+      "end_ms": 27195,
+      "content": "Not blocked, just slow. It's in decent shape."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 27481,
+      "end_ms": 34788,
+      "content": "Can we make sure that's written down somewhere? Otherwise we'll have this exact conversation again in a few weeks."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 35450,
+      "end_ms": 40450,
+      "content": "Can I get an update on the discount approval process? I lost track."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 41185,
+      "end_ms": 46569,
+      "content": "Sure. It's slower than I hoped. The hard part is behind us, I think."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 47361,
+      "end_ms": 51207,
+      "content": "Who's looking at the billing test accounts at the moment?"
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 51840,
+      "end_ms": 55301,
+      "content": "Me, mostly. It's basically finished, apart from tidying up."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 56589,
+      "end_ms": 63512,
+      "content": "Our invoices are confusing on their own, never mind the new plans. That might be worth fixing too."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 64868,
+      "end_ms": 75252,
+      "content": "Okay, this is the new pricing page. I took Lucas's copy and the advisory board feedback, which was mostly that people couldn't tell what's in each tier."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 76350,
+      "end_ms": 80965,
+      "content": "It's so much cleaner. The comparison table finally fits on one screen."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 82239,
+      "end_ms": 89546,
+      "content": "I like that each tier has one sentence saying who it's for. That's what the advisory board was missing."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 90766,
+      "end_ms": 98842,
+      "content": "Thanks. I've used the prices we agreed at the tiers session as placeholders, but I hear there's a discussion about Pro."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 99709,
+      "end_ms": 105862,
+      "content": "There is, and I want to settle it today. Sofia, can you share what you found?"
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 106826,
+      "end_ms": 119902,
+      "content": "Sure. I updated the model with real usage. Pro customers use alerts and the advanced connectors much more than we assumed. The value they get is a lot higher than the old plans suggested."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 121453,
+      "end_ms": 125683,
+      "content": "The pricing page wireframes are rough, but the structure is there."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 126551,
+      "end_ms": 131935,
+      "content": "Can we double check that with the people who actually use it every day?"
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 132329,
+      "end_ms": 138098,
+      "content": "Sounds sensible. I can help review it if you want a second pair of eyes."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 138683,
+      "end_ms": 142529,
+      "content": "Who's looking at the plan comparison table at the moment?"
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 143830,
+      "end_ms": 146522,
+      "content": "Me, mostly. It's slower than I hoped."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 147029,
+      "end_ms": 154721,
+      "content": "Can someone remind me who's taking the notes today? I want to make sure that last point is in them."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 155178,
+      "end_ms": 161716,
+      "content": "Customers mostly don't complain about the price. They complain when they don't understand what they're paying for."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 162420,
+      "end_ms": 169343,
+      "content": "I'll share my screen. Please be honest, these are early, so rough feedback is exactly what I need."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 170614,
+      "end_ms": 180614,
+      "content": "On top of that, our costs for the advanced connectors went up this quarter. At the current Pro price, the margin on heavy users is thin."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 181062,
+      "end_ms": 190292,
+      "content": "But we also told the advisory board the price, and they didn't complain. I'm worried about changing it right after showing it to them."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 191421,
+      "end_ms": 199882,
+      "content": "I understand. But they reacted to the tiers, not to the economics. I'd rather adjust now, before anything is public, than later."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 200169,
+      "end_ms": 207861,
+      "content": "From marketing, a higher price is fine if the page explains the value. And the page is much better now."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 209245,
+      "end_ms": 216937,
+      "content": "Okay. Decision. We raise the Pro tier to $59 per user per month. Starter and Enterprise stay as they are."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 217731,
+      "end_ms": 221577,
+      "content": "I'll update the model and the forecast with that number."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 222879,
+      "end_ms": 227109,
+      "content": "And I'll update the page. It's one number, so that's easy."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 228005,
+      "end_ms": 228905,
+      "content": "Right."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 230287,
+      "end_ms": 238748,
+      "content": "I'll tell Fatima, so she can mention it to the advisory board before they hear it anywhere else. I'd like their reaction."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 239492,
+      "end_ms": 243722,
+      "content": "Let's focus on the flow first and argue about colours later."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 245029,
+      "end_ms": 250798,
+      "content": "We should test the upgrade path end to end, not just the new sign-up flow."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 252270,
+      "end_ms": 259962,
+      "content": "I spent Tuesday afternoon on the invoice template. It's in decent shape, a couple of edge cases still bother me."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 260482,
+      "end_ms": 263174,
+      "content": "Where are we with the upgrade flow?"
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 264123,
+      "end_ms": 267969,
+      "content": "It's mostly done. It took longer than it should have."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 268651,
+      "end_ms": 274804,
+      "content": "Can I get an update on the plan names in the admin panel? I lost track."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 275703,
+      "end_ms": 280318,
+      "content": "Sure. It's slower than I hoped. I'll share it in the channel."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 281209,
+      "end_ms": 286593,
+      "content": "One worry I have is grandfathering. We need a clear rule for existing customers."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 287915,
+      "end_ms": 294838,
+      "content": "Small thing from me. I picked up the revenue model again after lunch yesterday. It's about halfway there."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 295836,
+      "end_ms": 303528,
+      "content": "On my side, work on the invoice template is slower than I hoped. It took longer than it should have."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 304631,
+      "end_ms": 310400,
+      "content": "Back to the design. Monthly versus annual billing. Do we show both on the page?"
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 310761,
+      "end_ms": 318068,
+      "content": "Annual billing helps cash flow a lot. If we can nudge people towards it, finance would be very happy."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 319003,
+      "end_ms": 319903,
+      "content": "Right, right."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 320352,
+      "end_ms": 327275,
+      "content": "Let's leave annual pricing open for now. I don't want to decide two pricing changes in one meeting."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 327752,
+      "end_ms": 333905,
+      "content": "Just a reminder that the team lunch is on Thursday. Please add yourself to the sheet."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 335270,
+      "end_ms": 337962,
+      "content": "Is there a vegetarian option this time?"
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 338749,
+      "end_ms": 340672,
+      "content": "There is. I made sure."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 341929,
+      "end_ms": 343082,
+      "content": "Then I'm in."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 344611,
+      "end_ms": 352687,
+      "content": "On my side, work on the sales talking points is about halfway there. A couple of edge cases still bother me."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 353873,
+      "end_ms": 362334,
+      "content": "I had a quick call about the plan migration script the end of last week. We're aligned, I'm reasonably happy with it."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 363174,
+      "end_ms": 369327,
+      "content": "The usage data is interesting. A small group of accounts uses most of the heavy features."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 370721,
+      "end_ms": 375721,
+      "content": "Meera, you mentioned the pricing page wireframes earlier in the week. Any news?"
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 376449,
+      "end_ms": 380679,
+      "content": "Some. It's further along than I expected, no surprises so far."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 381942,
+      "end_ms": 383095,
+      "content": "Great, thank you."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 384479,
+      "end_ms": 391402,
+      "content": "Small thing from me. I picked up the upgrade flow again Tuesday afternoon. It's nearly ready for review."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 392170,
+      "end_ms": 402170,
+      "content": "Small thing on the page. The Enterprise column says contact us, but it doesn't say who it's for. Can we add the seat minimum we agreed?"
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 403158,
+      "end_ms": 407773,
+      "content": "Yes. It helps people self-select. I'll add a line under the heading."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 408661,
+      "end_ms": 413276,
+      "content": "That should cut the small-team Enterprise requests that keep landing on sales."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 414500,
+      "end_ms": 421423,
+      "content": "Good. And let's make sure the page loads fast. Pricing pages are where people leave if they're slow."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 422211,
+      "end_ms": 425672,
+      "content": "It's mostly text and one table. It'll be quick."
+    },
+    {
+      "spk": "Meera Krishnan",
+      "start_ms": 426811,
+      "end_ms": 432580,
+      "content": "What about frequently asked questions? Things like what happens at the end of the trial."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 433734,
+      "end_ms": 438349,
+      "content": "A short section at the bottom. A handful of questions at most."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 439284,
+      "end_ms": 445053,
+      "content": "Keep the answers short. If an answer needs a paragraph, the pricing is too complicated."
+    },
+    {
+      "spk": "Sofia Lindqvist",
+      "start_ms": 445435,
+      "end_ms": 448896,
+      "content": "I'll send over the finance questions customers ask most."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 450042,
+      "end_ms": 454272,
+      "content": "When can I start using this page in the campaign drafts?"
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 455854,
+      "end_ms": 459700,
+      "content": "Give me a week to polish it. Then it's yours."
+    },
+    {
+      "spk": "Ananya Rao",
+      "start_ms": 460878,
+      "end_ms": 462801,
+      "content": "Great. Thanks, all. Good review."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 463420,
+      "end_ms": 466496,
+      "content": "That's all from me. Thanks for making time."
+    },
+    {
+      "spk": "Daniel Brooks",
+      "start_ms": 467870,
+      "end_ms": 468770,
+      "content": "Thanks, bye."
+    },
+    {
+      "spk": "Lucas",
+      "start_ms": 469399,
+      "end_ms": 470299,
+      "content": "Bye, all."
+    }
+  ]
+}

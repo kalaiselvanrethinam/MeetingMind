@@ -1,0 +1,116 @@
+[
+  {
+    "meeting_id": "m001",
+    "file": "2026-02-03_pricing-tiers-working-session.vtt",
+    "title": "Pricing tiers working session",
+    "date": "2026-02-03",
+    "project": "pricing-v2",
+    "meeting_type": "planning",
+    "format": "vtt",
+    "attendees": [
+      "p01",
+      "p03",
+      "p08",
+      "p09"
+    ],
+    "duration_min": 8
+  },
+  {
+    "meeting_id": "m002",
+    "file": "2026-03-04_mobile-launch-replanning.txt",
+    "title": "Mobile launch replanning",
+    "date": "2026-03-04",
+    "project": "mobile-app-launch",
+    "meeting_type": "planning",
+    "format": "txt",
+    "attendees": [
+      "p06",
+      "p04",
+      "p01",
+      "p08"
+    ],
+    "duration_min": 9
+  },
+  {
+    "meeting_id": "m003",
+    "file": "2026-03-17_pricing-page-design-review.vtt",
+    "title": "Pricing page design review",
+    "date": "2026-03-17",
+    "project": "pricing-v2",
+    "meeting_type": "design review",
+    "format": "vtt",
+    "attendees": [
+      "p02",
+      "p03",
+      "p08",
+      "p01",
+      "p09"
+    ],
+    "duration_min": 8
+  },
+  {
+    "meeting_id": "m003",
+    "file": "2026-03-17_pricing-page-design-review_export.json",
+    "title": "Pricing page design review",
+    "date": "2026-03-17",
+    "project": "pricing-v2",
+    "meeting_type": "design review",
+    "format": "json",
+    "attendees": [
+      "p02",
+      "p03",
+      "p08",
+      "p01",
+      "p09"
+    ],
+    "duration_min": 8
+  },
+  {
+    "meeting_id": "m004",
+    "file": "2026-04-28_mobile-launch-readiness-update.srt",
+    "title": "Mobile launch readiness update",
+    "date": "2026-04-28",
+    "project": "mobile-app-launch",
+    "meeting_type": "stakeholder update",
+    "format": "srt",
+    "attendees": [
+      "p06",
+      "p04",
+      "p01",
+      "p08"
+    ],
+    "duration_min": 9
+  },
+  {
+    "meeting_id": "m005",
+    "file": "2026-05-05_pricing-v2-final-review.vtt",
+    "title": "Pricing v2 final review",
+    "date": "2026-05-05",
+    "project": "pricing-v2",
+    "meeting_type": "stakeholder update",
+    "format": "vtt",
+    "attendees": [
+      "p01",
+      "p03",
+      "p08",
+      "p07",
+      "p09"
+    ],
+    "duration_min": 9
+  },
+  {
+    "meeting_id": "m006",
+    "file": "2026-05-13_mobile-weekly-sync.txt",
+    "title": "Mobile weekly sync",
+    "date": "2026-05-13",
+    "project": "mobile-app-launch",
+    "meeting_type": "weekly sync",
+    "format": "txt",
+    "attendees": [
+      "p06",
+      "p11",
+      "p04"
+    ],
+    "duration_min": 9
+  }
+]
